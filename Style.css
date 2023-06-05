@@ -144,3 +144,10 @@ header{
     outline:none;
     cursor: pointer;
 }
+.login-register{
+  font-size: .9em;
+  text-align: center;
+  font-weight: 500;
+  margin: 20px 0 10px;
+  color:#b9b8b8;
+}
